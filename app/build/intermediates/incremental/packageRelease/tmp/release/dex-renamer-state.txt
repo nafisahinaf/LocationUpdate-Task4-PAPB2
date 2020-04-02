@@ -1,0 +1,4 @@
+#Thu Apr 02 22:09:58 ICT 2020
+base.0=F\:\\LocationUpdate-PAPB2-Nafisah-15707\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

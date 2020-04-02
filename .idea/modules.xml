@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LocationUpdate-PAPB2-Nafisah-15707.iml" filepath="$PROJECT_DIR$/LocationUpdate-PAPB2-Nafisah-15707.iml" group="LocationUpdate-PAPB2-Nafisah-15707" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="LocationUpdate-PAPB2-Nafisah-15707/app" />
+    </modules>
+  </component>
+</project>
